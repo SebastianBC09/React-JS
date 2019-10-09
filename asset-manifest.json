@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/React-JS/static/css/main.1f4b55c6.chunk.css",
+    "main.js": "/React-JS/static/js/main.cdae0603.chunk.js",
+    "main.js.map": "/React-JS/static/js/main.cdae0603.chunk.js.map",
+    "runtime-main.js": "/React-JS/static/js/runtime-main.5aaf9bd2.js",
+    "runtime-main.js.map": "/React-JS/static/js/runtime-main.5aaf9bd2.js.map",
+    "static/css/2.510409cd.chunk.css": "/React-JS/static/css/2.510409cd.chunk.css",
+    "static/js/2.2b2f760f.chunk.js": "/React-JS/static/js/2.2b2f760f.chunk.js",
+    "static/js/2.2b2f760f.chunk.js.map": "/React-JS/static/js/2.2b2f760f.chunk.js.map",
+    "index.html": "/React-JS/index.html",
+    "precache-manifest.029e1458e1482ca996eb16cf1be8e47d.js": "/React-JS/precache-manifest.029e1458e1482ca996eb16cf1be8e47d.js",
+    "service-worker.js": "/React-JS/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/React-JS/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.1f4b55c6.chunk.css.map": "/React-JS/static/css/main.1f4b55c6.chunk.css.map",
+    "static/media/astronauts.svg": "/React-JS/static/media/astronauts.71addf45.svg",
+    "static/media/badge-header.svg": "/React-JS/static/media/badge-header.973f5842.svg",
+    "static/media/logo.svg": "/React-JS/static/media/logo.0026b862.svg",
+    "static/media/platziconf-logo.svg": "/React-JS/static/media/platziconf-logo.f246f5f1.svg",
+    "static/media/BadgeNew.css": "/React-JS/static/media/stars.1d17360a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aaf9bd2.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.2b2f760f.chunk.js",
+    "static/css/main.1f4b55c6.chunk.css",
+    "static/js/main.cdae0603.chunk.js"
+  ]
+}
